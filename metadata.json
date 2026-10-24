@@ -1,0 +1,6 @@
+{
+  "name": "Math Battle – Mind Clash",
+  "description": "A fast-paced 2-player math battle game with addition, multiplication, BODMAS & missing number challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
